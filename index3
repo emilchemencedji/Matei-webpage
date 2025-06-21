@@ -1,0 +1,24 @@
+<!DOCTYPE html
+<!--
+cum se afișează o imagine cu <img>
+cum funcționează atributul src și alt
+folosirea titlului secundar <h2>
+organizare mai clară a conținutului
+-->
+<html lang="ro">
+<head>
+  <title>Pagina lui Matei - Etapa 3</title>
+</head>
+<body>
+  <h1>Pagina lui Matei</h1>
+  <h2>Despre mine</h2>
+  <p>Mă numesc Matei, am 10 ani și îmi place să fac karate și să învăț programare.</p>
+  <h2>Poza mea preferată</h2>
+  <!-- Aici este o imagine luată de pe internet -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Karate_kid_high_kick.svg/512px-Karate_kid_high_kick.svg.png"
+       alt="Desen cu un copil făcând karate" width="300">
+  <h2>Link util</h2>
+  <p>Poți învăța programare pe site-ul:</p>
+  <a href="https://www.scratch.mit.edu" target="_blank">Scratch - Programare pentru copii</a>
+</body>
+</html>
